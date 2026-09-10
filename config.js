@@ -9,7 +9,7 @@ window.REFERRAL_CONFIG = {
   // 가입 후 아래 링크만 교체하면 됩니다.
   // 절대 임의의 파트너 ID를 넣지 마세요.
   affiliateLinks: {
-    airalo: "",
+    airalo: "https://airalo.tpk.lu/R0sa2XZL",
     hotel: "",
     activities: ""
   },
