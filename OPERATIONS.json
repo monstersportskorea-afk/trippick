@@ -1,0 +1,22 @@
+{
+  "phase": "MVP V1",
+  "market": "Korean travelers to Japan",
+  "revenue_categories": [
+    "eSIM",
+    "Hotels",
+    "Activities/Tickets"
+  ],
+  "status": {
+    "site": "ready",
+    "seo_pages": 10,
+    "affiliate_links": "waiting for approved partner URLs",
+    "analytics": "slot ready",
+    "deployment": "ready"
+  },
+  "next_required_human_actions": [
+    "Create Travelpayouts project and obtain approved partner links",
+    "Optionally apply directly to Airalo affiliate program",
+    "Paste real URLs into config.js",
+    "Deploy to GitHub Pages or Cloudflare Pages"
+  ]
+}
